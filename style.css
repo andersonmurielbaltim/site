@@ -1,0 +1,76 @@
+header {
+    
+    padding: 0px;
+    margin: 0px;
+    background-size: cover;
+    background-color: black;
+   
+    color: white;
+    
+    
+}
+
+h1 {
+   text-align: center;
+}
+
+body {  
+    background-color: rgb(51, 177, 199);
+    margin: 0;
+}
+
+img {
+    width: 5em;
+    position: relative;
+    left: 47%;
+    top: 50%
+}
+#photo1 {
+    border-radius: 2px solid white;
+    width: 25em;
+    position: static;
+    
+}
+#photo2 {
+    border-radius: 2px solid white;
+    width: 25em;
+    position: static;
+    
+}
+
+
+#one ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  #one li {
+   
+    float: left;
+  }
+  
+ #one li a {
+  
+    text-decoration: none;
+    color: white;
+  
+    display: block;
+    padding: 8px;
+    
+  }
+    
+  
+
+
+
+
+    footer {
+   background-color: black; 
+   color: white;
+   text-align: center;
+    margin: 0cm;
+    padding: 0.5cm;
+}
